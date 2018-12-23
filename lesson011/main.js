@@ -2,7 +2,7 @@
  * @Author: michaellee 
  * @Date: 2018-12-22 21:22:03 
  * @Last Modified by: michaellee
- * @Last Modified time: 2018-12-22 23:01:27
+ * @Last Modified time: 2018-12-23 22:35:20
  */
 
 // new Promise (function(resolve,reject){
@@ -57,3 +57,6 @@ p.then(multiply)
     .catch(function (r) {
         console.log('done.', r);
     });
+
+
+//2018.10.11011
